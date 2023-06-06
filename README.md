@@ -2,10 +2,10 @@
 <h3 align="center">A Passionate Pc Enthusiastic From Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevpaudel1&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevpaudel1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajeev08793445" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev08793445?logo=twitter&style=for-the-badge" alt="rajeev08793445" /></a> </p>
+
 
 - 🌱 I’m currently learning **JAVA**
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **rajeev11paudel@gmail.com**
 
 - ⚡ Fun fact **You have a unique fingerprint that is unlike anyone else's in the world**
+
+[![An image of @rajeev11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajeev11)](https://holopin.io/@rajeev11)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
