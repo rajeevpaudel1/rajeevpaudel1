@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/rajeev08793445" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev08793445?logo=twitter&style=for-the-badge" alt="rajeev08793445" /></a> </p>
 
 
-- 🌱 I’m currently learning **JAVA, PYTHON**
+- 🌱 I’m currently learning **PHP, PYTHON, SCRATCH**
 
 - 📝 I regularly write articles on [https://www.arthasasthri.com/](https://www.arthasasthri.com/)
 
