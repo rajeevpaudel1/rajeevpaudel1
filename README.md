@@ -6,16 +6,20 @@
 
 <p align="left"> <a href="https://twitter.com/rajeev08793445" target="blank"><img src="https://img.shields.io/twitter/follow/rajeev08793445?logo=twitter&style=for-the-badge" alt="rajeev08793445" /></a> </p>
 
+- 🌱 Currently diving deep into **Flutter** for mobile app development  
+- 🤖 Also exploring the world of **Artificial Intelligence** and **Machine Learning**  
+- 💬 Ask me about **how to learn effectively** — I'm always up for sharing tips and experiences  
+- 📫 Reach me at: **rajeev11paudel@gmail.com**  
+- 🔗 Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/rajeevpaudel1/)  
+- ⚡ Fun fact: **You have a unique fingerprint that is unlike anyone else's in the world**
 
-- 🌱 I’m currently learning **Flutter**
+---
 
-- 📝 I regularly write articles on [https://www.arthasasthri.com/](https://www.arthasasthri.com/)
+### 💼 About Me
 
-- 💬 Ask me about **Frontend Development**
+I'm an aspiring software developer passionate about building real-world solutions — from mobile apps using Flutter to intelligent systems powered by AI. I believe learning never stops, and I'm always curious about how things work under the hood. Whether it’s crafting smooth UI or deploying computer vision models, I love experimenting, building, and sharing what I learn along the way.
 
-- 📫 How to reach me **rajeev11paudel@gmail.com**
 
-- ⚡ Fun fact **You have a unique fingerprint that is unlike anyone else's in the world**
 
 [![An image of @rajeev11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajeev11)](https://holopin.io/@rajeev11)
 
